@@ -1,0 +1,461 @@
+#home{
+	background: #354739;
+	color: white;
+}
+
+header{
+	background: #354739;
+}
+
+footer{
+	color: white;
+}
+
+footer a{
+	color: white;
+}
+
+footer a:hover{
+	color: white;
+}
+
+#acompanhe{
+    background-color: #354739;
+}
+
+#copy{
+    background-color: #CE8624;
+}
+
+.bg-cinzaaa{
+	background-color: #D9D9D9;
+}
+
+.btn-amarelo{
+	background-color: #CE8624;
+    border-color: #CE8624;
+	color: white;
+}
+
+.btn-amarelo:hover{
+	color: white;
+}
+
+.btn-verde{
+	background-color: #354739;
+    border-color: #354739;
+	color: white;
+}
+
+.btn-verde:hover{
+	color: white;
+}
+
+.spanA a{
+    text-decoration: none;
+    color: black;
+}
+
+.spanA a:hover{
+    color: #CE8624;
+}
+
+.foto_perfil{
+  border-radius: 50%;
+}
+
+.caixa{
+	background: #354739;
+	color: white;
+	border-radius: 7px;
+	border: 5px solid #354739;
+	cursor: pointer;
+	text-align: center;
+}
+
+.caixaSelecionada{
+	border: 5px solid lightblue;
+}
+
+.fundoComOpacidade{
+    background-color: rgba(53, 71, 57, 0.9);
+}
+
+.infos{
+	color: #FFF;
+	text-decoration: none;
+    font-size: 11px;
+}
+
+.infosDestaque{
+    color: #FFF;
+	text-decoration: none;
+}
+
+.cardPequeno{
+    max-width: 300px;
+    max-height: 300px;
+}
+
+.cardGrande{
+    max-width: 500px;
+    max-height: 400px;
+    cursor: pointer;
+}
+
+.escondido{
+    display: none;
+}
+
+.table{
+    text-align: center;
+}
+
+
+.table .thead-secondary th {
+    color: #fff;
+    background-color: #6c757d;
+    border-color: #dee2e6;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #FFF;
+}
+
+.btn-inp{
+	text-align: left;
+	cursor: text !important;
+}
+
+.btn-branco{
+	background-color: #FFF;
+}
+
+.btn-borda{
+	border-left: 1px solid grey;
+}
+
+.btn-bordas{
+	border-right: 1px solid #ced4da;
+	border-top: 1px solid #ced4da;
+	border-bottom: 1px solid #ced4da;
+
+}
+
+#destaque a{
+	text-decoration: none;
+	color: white;
+}
+
+header .navbar-dark .navbar-nav .active>.nav-link {
+    color: #CE8624;
+    font-weight: bold;
+}
+
+.teste{
+	background-color: #CCC;
+}
+
+.bd-lateral{
+	border-left: 1px solid #D9D9D9;
+	border-right: 1px solid #D9D9D9;
+}
+
+.bd-baixo{
+	border-bottom: 1px solid #D9D9D9;
+}
+
+.bd-cima{
+	border-top: 1px solid #D9D9D9;
+}
+
+.icone{
+	color: inherit;
+}
+
+.icone:hover{
+	color: inherit;
+}
+
+.btn-cinza{
+	background-color: #D9D9D9;
+}
+
+.h5menor{
+	font-size: 1.1rem;
+	font-weight: 400;
+}
+
+.h6pequeno{
+	font-weight: 300;
+}
+
+.selecionar{
+	cursor: pointer;
+}
+
+.borda-redonda{
+	border: 1px solid #D9D9D9;
+	border-radius: 12px;
+}
+
+.texto-grande{
+	font-size: 20px;
+}
+
+.text-verde {
+    color: #354739!important;
+}
+
+.bg-verde{
+	background-color: #354739;
+	color: white;
+}
+
+.container-personalizado {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.container-fluid {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.caixaTexto{
+	background-color: #354739;
+	color: white;
+	text-align: left;
+}
+
+.info_numeros{
+	display: inline-block;
+    padding: 2px 5px;
+    font-size: 10px;
+    color: #888;
+    vertical-align: baseline;
+    white-space: nowrap;
+    text-shadow: 1px 1px #fff;
+    background-color: #eee;
+    border-radius: 8px;
+}
+
+.btn-cinzaClaro{
+	background-color: #eee;
+}
+
+.btn-cinzaClaro, .btn{
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: 5px 9px;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 0.25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.iconBtn{
+	cursor: pointer;
+}
+
+.paginationDif .page-link {
+    position: relative;
+    display: block;
+    padding: 0.5rem 0.75rem;
+    margin-left: -1px;
+    line-height: 1.25;
+    color: #FFF;
+    background-color: #354739;
+    border: 1px solid #dee2e6;
+}
+
+
+.textoFiltro{
+	font-size: 24px;
+	padding: 10px;
+}
+
+.btn-filtro{
+	background-color: #FFF;
+	border-top: 1px solid #ced4da;
+	border-right: 1px solid #ced4da;
+	border-bottom: 1px solid #ced4da;
+	color: #dee2e6;
+}
+
+.textoImovelTitulo{
+	text-transform: uppercase;
+	font-size: 25px;
+	color: #CE8624;
+}
+
+.textoImovelSubtitulo{
+	font-size: 20px;
+	color: #354739;
+}
+
+.textoCompart{
+	font-size: 25px;
+	color: #354739;
+
+}
+
+.textoCod{
+	color: #354739;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+ }
+
+.bd-todos{
+	border: 1px solid #D9D9D9;
+	border-radius: 5px;
+}
+
+#login {
+	width: 400px;
+	height: 300px;
+	background-color: rgba(206, 134, 36);
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	margin: 0 auto;
+	margin-top: 120px;
+	text-align: center;
+}
+
+#login img {
+	width: 120px;
+	height: 120px;
+	margin-top: -80px;
+	margin-bottom: 40px;
+	border-radius: 5px;
+}
+
+#login .input {
+	display: inline-block;
+	height: 40px;
+	width: 80%;
+	font-size: 18px;
+	margin-bottom: 5px;
+	background-color: #fff;
+	padding-left: 40px;
+	border: none;
+	background-repeat: no-repeat;
+	background-position: 10px;
+	width: 90%;
+}
+
+.emailLogin {
+	background-image: url(../img/icone-usuario.png);
+}
+
+.senhaLogin {
+	background-image: url(../img/icone-cadeado.png);
+}
+
+.btnLogin{
+	font-size: 22px;
+	padding: 3px 25px;
+	width: 80%;
+}
+
+.lembrarSenha{
+	float: left;
+	padding-left: 20px;
+	padding-bottom: 10px;
+	color: #FFF;
+}
+
+.esqueceuSenha{
+	padding-right: 20px;
+}
+
+.esqueceuSenha a{
+	color: #FFF;
+}
+
+#linkSemContato a{
+	text-decoration: none;
+	color: black;
+}
+
+a.todaDiv{
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+
+input:read-only{
+	background-color: #FFF!important;
+}
+
+.textMais{
+	cursor: pointer;
+	text-align: center;
+
+}
+
+.text-center{
+	text-align: center;
+}
+
+.font{
+    font-weight: 500;
+}
+
+.text-error{
+    display: flex;
+    justify-content: center;
+    color: red;
+}
+
+.page-link {
+    position: relative;
+    display: block;
+    padding: 0.5rem 0.75rem;
+    margin-left: -1px;
+    line-height: 1.25;
+    color: #354739;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+}
+
+.page-item.active .page-link {
+    z-index: 1;
+    color: #fff;
+    background-color: #354739;
+    border-color: #354739;
+}
+
+.page-item a:hover{
+
+    color: #354739;
+}
+
+h6.upper{
+    text-transform: uppercase;
+}
+
+h6.upper small{
+    text-transform: none;
+}
+img.d-block{
+    max-height: 500px;
+}
